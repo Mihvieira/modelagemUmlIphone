@@ -3,3 +3,6 @@ Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 
 ![](https://github.com/Mihvieira/modelagemUmlIphone/blob/main/diagramaUmlIphonepng)
 
+
+## Futuras correções 
+Após um melhor estudo sobre orientação a objetos serão implementadas correções nas estruturas do projeto 
